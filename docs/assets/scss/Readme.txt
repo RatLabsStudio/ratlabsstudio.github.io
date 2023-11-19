@@ -1,0 +1,1 @@
+The .scss (Sass) files ae only available in the pro version.r
